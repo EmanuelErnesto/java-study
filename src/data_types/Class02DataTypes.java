@@ -1,3 +1,5 @@
+package src.data_types;
+
 /**
  * Class that handles java data types examples.
  */

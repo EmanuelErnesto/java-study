@@ -1,3 +1,5 @@
+package src.data_types;
+
 import java.math.BigDecimal;
 import java.time.LocalDateTime;
 

@@ -1,3 +1,5 @@
+package src.helloworld;
+
 /**
  * Class that handles the first hello world.
  */
